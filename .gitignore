@@ -64,6 +64,7 @@ __pycache__/
 *.jpg
 *.wld
 *.geojson
+*.csv
 
 # VRT
 *.vrt
@@ -87,7 +88,10 @@ __pycache__/
 *.json
 
 # Data directories
+/Data
 
 # Add new notebooks
 *.ipynb
 !1-Upload_Imagery.ipynb
+!1-UploadGlobalSample.ipynb
+!2-UploadImagery.ipynb
