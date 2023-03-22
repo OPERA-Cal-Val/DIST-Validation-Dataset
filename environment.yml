@@ -6,7 +6,6 @@ channels:
 dependencies:
  - python>=3.10
  - jupyter
- - papermill
  - ipykernel
  - rasterio
  - shapely
@@ -20,7 +19,6 @@ dependencies:
  - boto3
  - tqdm
  - pip
- - planet
  - contextily
  - scikit-image
  - scikit-learn
